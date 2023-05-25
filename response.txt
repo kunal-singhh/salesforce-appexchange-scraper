@@ -1,0 +1,102 @@
+<tr class="appx-result-section-table-tr">
+<td role="gridcell">
+<a class="slds-media appx-tile-table" data-ignorehover="false" data-listing-id="listingId_1" data-listing-type="Developer" href="https://trailblazer.me/id/cloudjedi">
+<span class="appx-media__figure">
+<img class="slds-avatar_large" data-src="https://trailblazer.me/ncsphoto/7qGDgFdz6eXBvUgJiCq7eRoD_zW3698C-dVzJqEAFUJxzqgkYyxWygMOc27eFYl3mDGgBBvl9mTEPnPzA_Fspg%3D%3D" src="https://trailblazer.me/ncsphoto/7qGDgFdz6eXBvUgJiCq7eRoD_zW3698C-dVzJqEAFUJxzqgkYyxWygMOc27eFYl3mDGgBBvl9mTEPnPzA_Fspg%3D%3D"/>
+</span>
+<span class="slds-media__body appx-media__body">
+<span class="appx-listing-title">
+<p class="slds-truncate appx-listing-title-el">Joey Chan</p>
+</span>
+<p class="slds-text-body_small appx-work-sub-title appx-truncate-reset">Salesforce MVP | Building Integrations that matter | MuleSoft Mentor | Cloud Jedi Solutions</p>
+<p class="slds-text-body_small appx-work-media__descr appx-truncate-reset">Joey is one of only 200+ Salesforce MVPs in the world (1 of 3 in ASEAN) recognized for their deep expertise, leadership and generosity. As the founder...</p>
+</span>
+<span class="appx-tile-content-2">
+<span class="arrow-before"></span>
+<span class="appx-tile-content-2-inner">
+<span class="appx-tile-feature-group">
+<span class="appx-tile-logo-img"><img class="appx-tile-content-el" data-src="https://trailblazer.me/ncsphoto/7qGDgFdz6eXBvUgJiCq7eRoD_zW3698C-dVzJqEAFUJxzqgkYyxWygMOc27eFYl3mDGgBBvl9mTEPnPzA_Fspg%3D%3D" src="https://trailblazer.me/ncsphoto/7qGDgFdz6eXBvUgJiCq7eRoD_zW3698C-dVzJqEAFUJxzqgkYyxWygMOc27eFYl3mDGgBBvl9mTEPnPzA_Fspg%3D%3D"/></span>
+<span class="appx-tile-title-block">
+<span class="appx-tile-feature appx-tile-feature-title">Joey Chan<br/>
+<span class="appx-tile-feature-title-sub"> Salesforce MVP | Building Integrations that matter | MuleSoft Mentor</span>
+<span class="appx-tile-feature-title-sub"> | Cloud Jedi Solutions</span>
+</span>
+</span>
+</span>
+<span class="appx-tile-feature-group">
+<span class="slds-grid">
+<span class="slds-col">
+<span class="appx-tile-feature">
+<span class="appx-tile-feature--label">Rating</span><span id="j_id0:AppxLayout:j_id2295:j_id2296:j_id2299:j_id2300:j_id2312:0:j_id2313:j_id2314:j_id2322:j_id2323:j_id2336:j_id2337:j_id2338">
+<span class="appx-rating-block" data-event="listing_rating"><span class="appx-rating-amount" id="j_id0:AppxLayout:j_id2295:j_id2296:j_id2299:j_id2300:j_id2312:0:j_id2313:j_id2314:j_id2322:j_id2323:j_id2336:j_id2337:j_id2344">(47)</span>
+</span></span>
+</span>
+<span class="appx-tile-feature">
+<span class="appx-tile-feature--label">Jobs Completed</span>
+<span class="appx-tile-content-el-value">1</span>
+</span>
+</span>
+<span class="slds-col">
+<span class="appx-tile-feature">
+<span class="appx-tile-feature--label">Answers</span>
+<span class="appx-tile-content-el-value">1695</span>
+</span>
+<span class="appx-tile-feature">
+<span class="appx-tile-feature--label">Ideas</span>
+<span class="appx-tile-content-el-value">1</span>
+</span>
+</span>
+</span>
+</span>
+<span class="appx-tile-feature-group">
+<span class="appx-tile-feature">
+<span class="appx-tile-feature--label">Skills</span><span class="appx-tile-content-el-value" id="skillTxt-1">PHP</span>, <span class="appx-tile-content-el-value" id="skillTxt-2">Python</span>, <span class="appx-tile-content-el-value" id="skillTxt-3">HTML/CSS/JavaScript</span>, <span class="appx-tile-content-el-value" id="skillTxt-4">Other Languages</span>, <span class="appx-tile-content-el-value" id="skillTxt-5">Apex &amp; Visualforce</span>, <span class="appx-tile-content-el-value" id="skillTxt-6">C#</span>
+</span>
+<span class="appx-tile-feature">
+<span class="appx-tile-feature--label">User Since</span>
+<span class="appx-tile-content-el-value">2008</span>
+</span>
+<span class="appx-tile-feature">
+<span class="appx-tile-feature--label">Industry</span>
+<span class="appx-tile-content-el-value">High Tech</span>
+</span>
+<span class="appx-tile-feature">
+<span class="appx-tile-feature--label">Locations</span>
+<span class="appx-tile-content-el-value">Philippines</span>
+</span>
+<span class="appx-tile-feature">
+<span class="appx-tile-feature--label">Languages</span>
+<span class="appx-tile-content-el-value">
+                            English
+                    </span>
+</span>
+</span>
+<span class="appx-tile-actions">
+<span class="slds-button slds-button_brand appx-btn-more" tabindex="-1">
+                    More
+                    <svg aria-hidden="true" class="slds-button__icon slds-button__icon_right appx-button__icon"><use xlink:href="/resource/1683157138000/assetsappx/icons/symbols.svg?orgId=00D3u000003XOnL#chevronright" xmlns:xlink="http://www.w3.org/1999/xlink"></use></svg>
+</span>
+</span>
+</span>
+<span class="arrow-after"></span>
+</span>
+</a>
+</td>
+<td class="appx-hide-s" role="gridcell">
+<div class="appx-truncate-reset">1</div>
+</td>
+<td class="appx-hide-s" role="gridcell">
+<div class="appx-truncate-reset">1695</div>
+</td>
+<td class="appx-hide-s" role="gridcell">
+<div class="appx-truncate-reset">1</div>
+</td>
+<td class="appx-hide-s" role="gridcell">
+<div class="appx-truncate-reset">
+<div class="slds-truncate" title="Rating"><span id="j_id0:AppxLayout:j_id2295:j_id2296:j_id2299:j_id2300:j_id2312:0:j_id2313:j_id2314:j_id2375:j_id2376:j_id2377">
+<span class="appx-rating-block" data-event="listing_rating"><span class="appx-rating-amount" id="j_id0:AppxLayout:j_id2295:j_id2296:j_id2299:j_id2300:j_id2312:0:j_id2313:j_id2314:j_id2375:j_id2376:j_id2383">(47)</span>
+</span></span>
+</div>
+</div>
+</td>
+</tr>
